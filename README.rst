@@ -1,22 +1,22 @@
-QA Code
-=======
+BDOC-guildmanager
+=================
 
 
-.. image:: https://img.shields.io/github/issues/netzulo/qacode.svg
+.. image:: https://img.shields.io/github/issues/RealImperialGames/BDOC-guildmanager.svg
   :alt: Issues on Github
-  :target: https://github.com/netzulo/qacode/issues
+  :target: https://github.com/RealImperialGames/BDOC-guildmanager/issues
 
-.. image:: https://img.shields.io/github/issues-pr/netzulo/qacode.svg
+.. image:: https://img.shields.io/github/issues-pr/RealImperialGames/BDOC-guildmanager.svg
   :alt: Pull Request opened on Github
-  :target: https://github.com/netzulo/qacode/issues
+  :target: https://github.com/RealImperialGames/BDOC-guildmanager/issues
 
-.. image:: https://img.shields.io/github/release/netzulo/qacode.svg
+.. image:: https://img.shields.io/github/release/RealImperialGames/BDOC-guildmanager.svg
   :alt: Release version on Github
-  :target: https://github.com/netzulo/qacode/releases/latest
+  :target: https://github.com/RealImperialGames/BDOC-guildmanager/releases/latest
 
-.. image:: https://img.shields.io/github/release-date/netzulo/qacode.svg
+.. image:: https://img.shields.io/github/release-date/RealImperialGames/BDOC-guildmanager.svg
   :alt: Release date on Github
-  :target: https://github.com/netzulo/qacode/releases/latest
+  :target: https://github.com/RealImperialGames/BDOC-guildmanager/releases/latest
 
 +-------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 | Continuous Integration System |                           Branch : **master**                                                                                                    |
