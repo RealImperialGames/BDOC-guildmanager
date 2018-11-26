@@ -104,7 +104,7 @@ KEYWORDS = ','.join([
     'black',
     'desert',
     'online'
-]), 
+]),
 GIT_URL = "https://github.com/RealImperialGames/BDOC-guildmanager",
 GIT_URL_DOWNLOAD = "{}/tarball/v{}".format(GIT_URL, VERSION)
 LICENSE_FILE = read(

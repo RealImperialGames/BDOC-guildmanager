@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Changed
 
+- python tox minor fixes for some files needed to be more readeable
+
 ### Fixed
 
 - typo fixes for description files

@@ -23,10 +23,11 @@ class LoggerManager(object):
     log_level = None
     logger = None
 
-    def __init__(self, log_path="logs/", log_name="bdocguildmanager", log_level=None,
-                 is_output_console=True, is_output_file=True):
-        """Create new logger_manager instance with default 'logs/bdocguildmanager.log'
-            path, log_level DEBUG console_handler enable file_handler enable
+    def __init__(self, log_path="logs/", log_name="bdocguildmanager",
+                 log_level=None, is_output_console=True, is_output_file=True):
+        """Create new logger_manager instance with default
+            'logs/bdocguildmanager.log' path, log_level DEBUG console_handler
+            enable file_handler enable
         """
         if log_path is None or len(log_path) <= 0:
             raise Exception("bad format at logger log_path={}"

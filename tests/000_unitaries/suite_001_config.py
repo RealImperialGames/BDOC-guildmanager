@@ -2,8 +2,9 @@
 """Test Suite module for configs"""
 
 
-import pytest
 from bdocguildmanager.files import settings
+
+import pytest
 
 
 SKIP_CONFIG = False
