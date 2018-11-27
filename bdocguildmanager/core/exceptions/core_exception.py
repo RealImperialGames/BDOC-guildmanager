@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Main Exceptions for qacode library"""
+"""Main Exceptions for bdocguildmanager library"""
 
 
-from qacode.core.loggers.logger_manager import LoggerManager
+from bdocguildmanager.core.loggers.logger_manager import LoggerManager
 
 
 class CoreException(Exception):
