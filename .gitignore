@@ -110,3 +110,6 @@ tests/reports/benchmarks/benchmark.*.svg
 .vs/
 # Visual code
 .vscode/
+
+# django sqlite
+www/db.sqlite3
